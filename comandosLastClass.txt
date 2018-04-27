@@ -1,0 +1,84 @@
+estos es nuevo
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  pwd
+    6  cd /
+    7  pwdd
+    8  pwd
+    9  ls
+   10  ls -l
+   11  ls -l -r
+   12  ls -l --sort -t
+   13  ls -lt
+   14  ls -ltha
+   15  tree
+   16* 
+   17* 
+   18* cd home/alumn
+   19  cd home/alumno
+   20  cd ../homa../alumno
+   21  cd ../home../alumno
+   22  cd ../home/alumno
+   23  echo "holaclaseverdirectorios">archivoNuevo.txt
+   24  ls
+   25  ls -lta
+   26  cd /
+   27  cd boot
+   28  ls
+   29  cd var/lock
+   30  cd ..
+   31  cd var/lock
+   32  ls
+   33  cd ..
+   34  var/log
+   35  cd ..
+   36  cd var/log
+   37  ls
+   38  cd..
+   39  cd ..
+   40  cd var/temp
+   41  cd var /tmp
+   42  cd /tmp
+   43  cd ..
+   44  cd var/tmp
+   45  ls
+   46  cd ../..
+   47  ls
+   48  cd bin
+   49  cd ..
+   50  cd usr
+   51  ls
+   52  cd bin
+   53  ls
+   54  cd ..
+   55  pwd
+   56  history
+   57  cd usr
+   58  cd /bin
+   59  cd ..
+   60  cd usr
+   61  cd ..
+   62  cd usr/bin
+   63  ls
+   64  du /bin
+   65  du /bin -h
+   66  ls
+   67  du opt
+   68  du /opt
+   69  du /opt -h
+   70  cd ..
+   71  pwd
+   72  ls
+   73  cd home
+   74  pwdf
+   75  pwd
+   76  ls
+   77  cd alumno
+   78  ls
+   79  cd gihub
+   80  cd github
+   81  git clone https://github.com/laloo96/PracticaGitHub.git
+   82  echo "estos es nuevo">>comandos.txt
+   83  history>>comandos.txt
